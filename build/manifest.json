@@ -1,0 +1,16 @@
+{
+  "short_name": "GooseSwap",
+  "name": "GooseSwap",
+  "description": "Farm GOOSE with LP Tokens starting 3/9/2021.",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
